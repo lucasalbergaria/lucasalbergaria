@@ -1,16 +1,16 @@
+# Web Development - React JS 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lucasalbergaria)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucasalbergaria/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rubens.albergaria/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rubens__albergaria/) 
+
 ### Hi there 👋
 
-<!--
-**lucasalbergaria/lucasalbergaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lucas from Brazil, and I'm graduating myself in Computer Science at Universidade FUMEC, with completion scheduled for December 2025. I really enjoy learning languages and I'm very focused on improving myself to be a better software developer. I also enjoy games in general, especially play them!
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java 
+* Javascript 
+* 💻 HTML, CSS
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasalbergaria&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalbergaria)](https://github.com/anuraghazra/github-readme-stats)
